@@ -1,0 +1,1358 @@
+{
+  "listings": {
+    "B08N5WRWNW": {
+      "asin": "B08N5WRWNW",
+      "title": "Stainless Steel Water Bottle 32oz - Insulated Vacuum Flask for Gym, Travel, and Office - Keeps Drinks Cold 24hrs, Hot 12hrs - Leak-Proof, BPA-Free",
+      "bullets": [
+        "TRIPLE-WALL VACUUM INSULATION KEEPS BEVERAGES COLD FOR 24 HOURS - Advanced copper-coated technology maintains ice-cold temperatures all day during workouts, commutes, and outdoor adventures without condensation",
+        "PERFECT FOR GYM ENTHUSIASTS AND OUTDOOR ADVENTURERS - The 32oz capacity and sweat-proof design fit standard car cup holders and bike bottle cages, making hydration effortless during hiking, cycling, and fitness training",
+        "LEAK-PROOF LID WITH CARRY HANDLE FOR ON-THE-GO CONVENIENCE - The secure twist cap prevents spills in gym bags and backpacks while the integrated loop allows easy attachment to hiking gear or stroller handles",
+        "BPA-FREE STAINLESS STEEL CONSTRUCTION FOR SAFE DAILY USE - Made from premium 18/8 food-grade steel with no plastic lining, ensuring pure taste and peace of mind for health-conscious users and families"
+      ],
+      "description": "Premium insulated water bottle designed for active lifestyles...",
+      "brand": "HydroMax",
+      "client_id": "c-101"
+    },
+    "B07ZPKBL6P": {
+      "asin": "B07ZPKBL6P",
+      "title": "Organic Matcha Green Tea Powder - Ceremonial Grade from Japan - 4oz Bag for Latte, Smoothie, and Baking",
+      "bullets": [
+        "CEREMONIAL GRADE MATCHA HARVESTED FROM UJI, JAPAN - Shade-grown for 3 weeks before stone-ground processing, delivering vibrant green color, smooth umami flavor, and sustained energy without jitters",
+        "IDEAL FOR HEALTH-CONSCIOUS PROFESSIONALS AND YOGA PRACTITIONERS - Each serving provides 137x the antioxidants of brewed green tea, supporting mental clarity and calm focus during meditation and busy workdays",
+        "VERSATILE CULINARY GRADE FOR LATTES, SMOOTHIES, AND BAKING - Finely milled powder dissolves easily in hot or cold liquids, perfect for creating cafe-quality matcha lattes at home or adding nutrient boost to morning shakes",
+        "USDA ORGANIC CERTIFIED WITH THIRD-PARTY LAB TESTING - Every batch tested for heavy metals and pesticides, packaged in resealable foil bags to preserve freshness for matcha lovers who demand purity"
+      ],
+      "description": "Authentic Japanese ceremonial grade matcha green tea powder...",
+      "brand": "Matcha Co",
+      "client_id": "c-102"
+    }
+  },
+  "competitors": {
+    "B08N5WRWNW": [
+      {
+        "asin": "B0ABC123",
+        "title": "Insulated Water Bottle 40oz - Hydro Flask Alternative for Hiking",
+        "full_text": "Double wall vacuum insulated stainless steel water bottle keeps drinks ice cold for 24 hours or piping hot for 12 hours. Premium travel flask designed for outdoor hiking, backpacking, camping, and athletic sports. Durable BPA-free powder-coated finish with leak-proof cap.",
+        "price": "$29.99",
+        "rating": "4.5",
+        "review_count": 1240
+      },
+      {
+        "asin": "B0DEF456",
+        "title": "Travel Mug Stainless Steel - Keeps Coffee Hot 8 Hours",
+        "full_text": "Sleek travel mug constructed with food-grade 18/8 stainless steel and vacuum insulation. Ideal commuter coffee mug that keeps beverages hot for 8 hours or cold for 16 hours. Features a leak-proof leak-lock flip lid and textured rubber grip.",
+        "price": "$24.99",
+        "rating": "4.3",
+        "review_count": 890
+      },
+      {
+        "asin": "B0GHI789",
+        "title": "Sports Water Bottle with Straw - BPA Free Gym Bottle 32oz",
+        "full_text": "Vibrant sports water bottle with high-flow straw lid for easy one-handed sipping. Durable plastic construction that is 100% BPA-free and leakproof. Features volume markings, silicon grip sleeve, and carry loop perfect for gym, fitness, cycling, and running.",
+        "price": "$18.99",
+        "rating": "4.6",
+        "review_count": 2100
+      },
+      {
+        "asin": "B0JKL012",
+        "title": "Collapsible Water Bottle for Travel - Silicone Foldable 20oz",
+        "full_text": "Ultra-portable foldable silicone water bottle for travel, hiking, and outdoor sports. Made from flexible food-grade BPA-free silicone. Collapses down to 1/3 of its full size to save space in backpacks. Features an alloy carabiner for easy attachment.",
+        "price": "$15.99",
+        "rating": "4.1",
+        "review_count": 560
+      },
+      {
+        "asin": "B0MNO345",
+        "title": "Glass Water Bottle with Sleeve - Eco Friendly 24oz",
+        "full_text": "Premium borosilicate glass water bottle with protective silicone sleeve and eco-friendly bamboo lid. Reusable, non-toxic, chemical-free glass ensures crisp, clean taste. Wide mouth opening is perfect for adding ice cubes or fruit infusions.",
+        "price": "$22.99",
+        "rating": "4.4",
+        "review_count": 780
+      }
+    ]
+  },
+  "jobs": [
+    {
+      "id": "job-9281",
+      "asin": "B08N5WRWNW",
+      "client_id": "c-101",
+      "status": "completed",
+      "stage": "publish",
+      "progress": 100,
+      "started": "08:55",
+      "eta": "09:12",
+      "readiness_before": 58,
+      "readiness_after": 79,
+      "date": "2026-05-18"
+    },
+    {
+      "id": "job-9280",
+      "asin": "B07ZPKBL6P",
+      "client_id": "c-102",
+      "status": "completed",
+      "stage": "publish",
+      "progress": 100,
+      "started": "08:42",
+      "eta": "09:01",
+      "readiness_before": 44,
+      "readiness_after": 71,
+      "date": "2026-05-17"
+    },
+    {
+      "id": "job-9279",
+      "asin": "B09QXT8B7L",
+      "client_id": "c-103",
+      "status": "processing",
+      "stage": "cosmo_mapping",
+      "progress": 65,
+      "started": "09:08",
+      "eta": "09:18",
+      "readiness_before": 51,
+      "readiness_after": null,
+      "date": "2026-05-17"
+    },
+    {
+      "id": "job-9278",
+      "asin": "B0B2QGDR6R",
+      "client_id": "c-104",
+      "status": "failed",
+      "stage": "optimization",
+      "progress": 34,
+      "started": "08:30",
+      "eta": null,
+      "readiness_before": 62,
+      "readiness_after": null,
+      "date": "2026-05-16"
+    }
+  ],
+  "traffic_history": {
+    "B08N5WRWNW": [
+      {
+        "date": "2026-03-26",
+        "sessions": 844,
+        "orders": 36
+      },
+      {
+        "date": "2026-03-27",
+        "sessions": 927,
+        "orders": 39
+      },
+      {
+        "date": "2026-03-28",
+        "sessions": 812,
+        "orders": 32
+      },
+      {
+        "date": "2026-03-29",
+        "sessions": 887,
+        "orders": 36
+      },
+      {
+        "date": "2026-03-30",
+        "sessions": 884,
+        "orders": 35
+      },
+      {
+        "date": "2026-03-31",
+        "sessions": 811,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-01",
+        "sessions": 843,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-02",
+        "sessions": 795,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-03",
+        "sessions": 839,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-04",
+        "sessions": 842,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-05",
+        "sessions": 814,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-06",
+        "sessions": 820,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-07",
+        "sessions": 789,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-08",
+        "sessions": 844,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-09",
+        "sessions": 872,
+        "orders": 36
+      },
+      {
+        "date": "2026-04-10",
+        "sessions": 802,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-11",
+        "sessions": 866,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-12",
+        "sessions": 838,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-13",
+        "sessions": 865,
+        "orders": 37
+      },
+      {
+        "date": "2026-04-14",
+        "sessions": 834,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-15",
+        "sessions": 861,
+        "orders": 36
+      },
+      {
+        "date": "2026-04-16",
+        "sessions": 792,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-17",
+        "sessions": 842,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-18",
+        "sessions": 952,
+        "orders": 40
+      },
+      {
+        "date": "2026-04-19",
+        "sessions": 869,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-20",
+        "sessions": 850,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-21",
+        "sessions": 843,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-22",
+        "sessions": 846,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-23",
+        "sessions": 826,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-24",
+        "sessions": 865,
+        "orders": 35
+      },
+      {
+        "date": "2026-04-25",
+        "sessions": 896,
+        "orders": 37
+      },
+      {
+        "date": "2026-04-26",
+        "sessions": 787,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-27",
+        "sessions": 893,
+        "orders": 36
+      },
+      {
+        "date": "2026-04-28",
+        "sessions": 884,
+        "orders": 36
+      },
+      {
+        "date": "2026-04-29",
+        "sessions": 836,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-30",
+        "sessions": 797,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-01",
+        "sessions": 776,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-02",
+        "sessions": 779,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-03",
+        "sessions": 895,
+        "orders": 38
+      },
+      {
+        "date": "2026-05-04",
+        "sessions": 912,
+        "orders": 37
+      },
+      {
+        "date": "2026-05-05",
+        "sessions": 804,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-06",
+        "sessions": 814,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-07",
+        "sessions": 941,
+        "orders": 40
+      },
+      {
+        "date": "2026-05-08",
+        "sessions": 880,
+        "orders": 37
+      },
+      {
+        "date": "2026-05-09",
+        "sessions": 899,
+        "orders": 36
+      },
+      {
+        "date": "2026-05-10",
+        "sessions": 843,
+        "orders": 45
+      },
+      {
+        "date": "2026-05-11",
+        "sessions": 856,
+        "orders": 46
+      },
+      {
+        "date": "2026-05-12",
+        "sessions": 823,
+        "orders": 43
+      },
+      {
+        "date": "2026-05-13",
+        "sessions": 776,
+        "orders": 41
+      },
+      {
+        "date": "2026-05-14",
+        "sessions": 845,
+        "orders": 45
+      },
+      {
+        "date": "2026-05-15",
+        "sessions": 819,
+        "orders": 43
+      },
+      {
+        "date": "2026-05-16",
+        "sessions": 830,
+        "orders": 44
+      },
+      {
+        "date": "2026-05-17",
+        "sessions": 893,
+        "orders": 46
+      },
+      {
+        "date": "2026-05-18",
+        "sessions": 862,
+        "orders": 46
+      },
+      {
+        "date": "2026-05-19",
+        "sessions": 789,
+        "orders": 42
+      },
+      {
+        "date": "2026-05-20",
+        "sessions": 892,
+        "orders": 46
+      },
+      {
+        "date": "2026-05-21",
+        "sessions": 803,
+        "orders": 44
+      },
+      {
+        "date": "2026-05-22",
+        "sessions": 913,
+        "orders": 47
+      },
+      {
+        "date": "2026-05-23",
+        "sessions": 819,
+        "orders": 43
+      },
+      {
+        "date": "2026-05-24",
+        "sessions": 822,
+        "orders": 44
+      },
+      {
+        "date": "2026-05-25",
+        "sessions": 867,
+        "orders": 46
+      }
+    ],
+    "B0ABC123": [
+      {
+        "date": "2026-03-26",
+        "sessions": 785,
+        "orders": 32
+      },
+      {
+        "date": "2026-03-27",
+        "sessions": 835,
+        "orders": 33
+      },
+      {
+        "date": "2026-03-28",
+        "sessions": 780,
+        "orders": 32
+      },
+      {
+        "date": "2026-03-29",
+        "sessions": 809,
+        "orders": 32
+      },
+      {
+        "date": "2026-03-30",
+        "sessions": 793,
+        "orders": 33
+      },
+      {
+        "date": "2026-03-31",
+        "sessions": 826,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-01",
+        "sessions": 815,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-02",
+        "sessions": 782,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-03",
+        "sessions": 792,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-04",
+        "sessions": 821,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-05",
+        "sessions": 745,
+        "orders": 30
+      },
+      {
+        "date": "2026-04-06",
+        "sessions": 817,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-07",
+        "sessions": 857,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-08",
+        "sessions": 809,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-09",
+        "sessions": 787,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-10",
+        "sessions": 812,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-11",
+        "sessions": 837,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-12",
+        "sessions": 853,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-13",
+        "sessions": 810,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-14",
+        "sessions": 764,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-15",
+        "sessions": 764,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-16",
+        "sessions": 789,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-17",
+        "sessions": 796,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-18",
+        "sessions": 777,
+        "orders": 30
+      },
+      {
+        "date": "2026-04-19",
+        "sessions": 844,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-20",
+        "sessions": 822,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-21",
+        "sessions": 719,
+        "orders": 29
+      },
+      {
+        "date": "2026-04-22",
+        "sessions": 797,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-23",
+        "sessions": 814,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-24",
+        "sessions": 779,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-25",
+        "sessions": 740,
+        "orders": 31
+      },
+      {
+        "date": "2026-04-26",
+        "sessions": 809,
+        "orders": 32
+      },
+      {
+        "date": "2026-04-27",
+        "sessions": 829,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-28",
+        "sessions": 812,
+        "orders": 34
+      },
+      {
+        "date": "2026-04-29",
+        "sessions": 835,
+        "orders": 33
+      },
+      {
+        "date": "2026-04-30",
+        "sessions": 789,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-01",
+        "sessions": 804,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-02",
+        "sessions": 805,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-03",
+        "sessions": 752,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-04",
+        "sessions": 852,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-05",
+        "sessions": 816,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-06",
+        "sessions": 798,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-07",
+        "sessions": 832,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-08",
+        "sessions": 871,
+        "orders": 35
+      },
+      {
+        "date": "2026-05-09",
+        "sessions": 821,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-10",
+        "sessions": 839,
+        "orders": 35
+      },
+      {
+        "date": "2026-05-11",
+        "sessions": 832,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-12",
+        "sessions": 784,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-13",
+        "sessions": 798,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-14",
+        "sessions": 833,
+        "orders": 36
+      },
+      {
+        "date": "2026-05-15",
+        "sessions": 810,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-16",
+        "sessions": 842,
+        "orders": 35
+      },
+      {
+        "date": "2026-05-17",
+        "sessions": 793,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-18",
+        "sessions": 794,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-19",
+        "sessions": 809,
+        "orders": 33
+      },
+      {
+        "date": "2026-05-20",
+        "sessions": 765,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-21",
+        "sessions": 827,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-22",
+        "sessions": 753,
+        "orders": 30
+      },
+      {
+        "date": "2026-05-23",
+        "sessions": 771,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-24",
+        "sessions": 812,
+        "orders": 34
+      },
+      {
+        "date": "2026-05-25",
+        "sessions": 864,
+        "orders": 36
+      }
+    ],
+    "B07ZPKBL6P": [
+      {
+        "date": "2026-03-26",
+        "sessions": 511,
+        "orders": 24
+      },
+      {
+        "date": "2026-03-27",
+        "sessions": 490,
+        "orders": 25
+      },
+      {
+        "date": "2026-03-28",
+        "sessions": 494,
+        "orders": 24
+      },
+      {
+        "date": "2026-03-29",
+        "sessions": 526,
+        "orders": 26
+      },
+      {
+        "date": "2026-03-30",
+        "sessions": 513,
+        "orders": 24
+      },
+      {
+        "date": "2026-03-31",
+        "sessions": 519,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-01",
+        "sessions": 485,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-02",
+        "sessions": 534,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-03",
+        "sessions": 480,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-04",
+        "sessions": 497,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-05",
+        "sessions": 489,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-06",
+        "sessions": 474,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-07",
+        "sessions": 509,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-08",
+        "sessions": 527,
+        "orders": 26
+      },
+      {
+        "date": "2026-04-09",
+        "sessions": 498,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-10",
+        "sessions": 507,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-11",
+        "sessions": 510,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-12",
+        "sessions": 497,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-13",
+        "sessions": 492,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-14",
+        "sessions": 534,
+        "orders": 27
+      },
+      {
+        "date": "2026-04-15",
+        "sessions": 488,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-16",
+        "sessions": 479,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-17",
+        "sessions": 504,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-18",
+        "sessions": 523,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-19",
+        "sessions": 526,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-20",
+        "sessions": 512,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-21",
+        "sessions": 514,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-22",
+        "sessions": 509,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-23",
+        "sessions": 486,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-24",
+        "sessions": 530,
+        "orders": 26
+      },
+      {
+        "date": "2026-04-25",
+        "sessions": 501,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-26",
+        "sessions": 526,
+        "orders": 26
+      },
+      {
+        "date": "2026-04-27",
+        "sessions": 499,
+        "orders": 25
+      },
+      {
+        "date": "2026-04-28",
+        "sessions": 499,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-29",
+        "sessions": 483,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-30",
+        "sessions": 498,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-01",
+        "sessions": 501,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-02",
+        "sessions": 528,
+        "orders": 25
+      },
+      {
+        "date": "2026-05-03",
+        "sessions": 512,
+        "orders": 25
+      },
+      {
+        "date": "2026-05-04",
+        "sessions": 462,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-05",
+        "sessions": 478,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-06",
+        "sessions": 498,
+        "orders": 25
+      },
+      {
+        "date": "2026-05-07",
+        "sessions": 495,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-08",
+        "sessions": 541,
+        "orders": 27
+      },
+      {
+        "date": "2026-05-09",
+        "sessions": 488,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-10",
+        "sessions": 492,
+        "orders": 29
+      },
+      {
+        "date": "2026-05-11",
+        "sessions": 470,
+        "orders": 28
+      },
+      {
+        "date": "2026-05-12",
+        "sessions": 516,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-13",
+        "sessions": 510,
+        "orders": 30
+      },
+      {
+        "date": "2026-05-14",
+        "sessions": 496,
+        "orders": 29
+      },
+      {
+        "date": "2026-05-15",
+        "sessions": 503,
+        "orders": 30
+      },
+      {
+        "date": "2026-05-16",
+        "sessions": 529,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-17",
+        "sessions": 508,
+        "orders": 29
+      },
+      {
+        "date": "2026-05-18",
+        "sessions": 488,
+        "orders": 29
+      },
+      {
+        "date": "2026-05-19",
+        "sessions": 515,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-20",
+        "sessions": 514,
+        "orders": 31
+      },
+      {
+        "date": "2026-05-21",
+        "sessions": 531,
+        "orders": 32
+      },
+      {
+        "date": "2026-05-22",
+        "sessions": 508,
+        "orders": 30
+      },
+      {
+        "date": "2026-05-23",
+        "sessions": 481,
+        "orders": 28
+      },
+      {
+        "date": "2026-05-24",
+        "sessions": 490,
+        "orders": 28
+      },
+      {
+        "date": "2026-05-25",
+        "sessions": 486,
+        "orders": 28
+      }
+    ],
+    "B0DEF456": [
+      {
+        "date": "2026-03-26",
+        "sessions": 506,
+        "orders": 23
+      },
+      {
+        "date": "2026-03-27",
+        "sessions": 502,
+        "orders": 24
+      },
+      {
+        "date": "2026-03-28",
+        "sessions": 448,
+        "orders": 21
+      },
+      {
+        "date": "2026-03-29",
+        "sessions": 482,
+        "orders": 22
+      },
+      {
+        "date": "2026-03-30",
+        "sessions": 462,
+        "orders": 21
+      },
+      {
+        "date": "2026-03-31",
+        "sessions": 474,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-01",
+        "sessions": 467,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-02",
+        "sessions": 489,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-03",
+        "sessions": 469,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-04",
+        "sessions": 467,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-05",
+        "sessions": 486,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-06",
+        "sessions": 466,
+        "orders": 21
+      },
+      {
+        "date": "2026-04-07",
+        "sessions": 476,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-08",
+        "sessions": 492,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-09",
+        "sessions": 447,
+        "orders": 21
+      },
+      {
+        "date": "2026-04-10",
+        "sessions": 458,
+        "orders": 21
+      },
+      {
+        "date": "2026-04-11",
+        "sessions": 476,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-12",
+        "sessions": 489,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-13",
+        "sessions": 479,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-14",
+        "sessions": 498,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-15",
+        "sessions": 457,
+        "orders": 21
+      },
+      {
+        "date": "2026-04-16",
+        "sessions": 482,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-17",
+        "sessions": 462,
+        "orders": 21
+      },
+      {
+        "date": "2026-04-18",
+        "sessions": 450,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-19",
+        "sessions": 493,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-20",
+        "sessions": 481,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-21",
+        "sessions": 445,
+        "orders": 20
+      },
+      {
+        "date": "2026-04-22",
+        "sessions": 481,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-23",
+        "sessions": 505,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-24",
+        "sessions": 501,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-25",
+        "sessions": 487,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-26",
+        "sessions": 521,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-27",
+        "sessions": 473,
+        "orders": 22
+      },
+      {
+        "date": "2026-04-28",
+        "sessions": 510,
+        "orders": 24
+      },
+      {
+        "date": "2026-04-29",
+        "sessions": 488,
+        "orders": 23
+      },
+      {
+        "date": "2026-04-30",
+        "sessions": 491,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-01",
+        "sessions": 479,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-02",
+        "sessions": 503,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-03",
+        "sessions": 454,
+        "orders": 21
+      },
+      {
+        "date": "2026-05-04",
+        "sessions": 471,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-05",
+        "sessions": 486,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-06",
+        "sessions": 484,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-07",
+        "sessions": 459,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-08",
+        "sessions": 463,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-09",
+        "sessions": 462,
+        "orders": 21
+      },
+      {
+        "date": "2026-05-10",
+        "sessions": 473,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-11",
+        "sessions": 494,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-12",
+        "sessions": 459,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-13",
+        "sessions": 483,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-14",
+        "sessions": 476,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-15",
+        "sessions": 465,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-16",
+        "sessions": 483,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-17",
+        "sessions": 477,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-18",
+        "sessions": 466,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-19",
+        "sessions": 476,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-20",
+        "sessions": 490,
+        "orders": 23
+      },
+      {
+        "date": "2026-05-21",
+        "sessions": 460,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-22",
+        "sessions": 502,
+        "orders": 24
+      },
+      {
+        "date": "2026-05-23",
+        "sessions": 469,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-24",
+        "sessions": 464,
+        "orders": 22
+      },
+      {
+        "date": "2026-05-25",
+        "sessions": 471,
+        "orders": 23
+      }
+    ]
+  }
+}

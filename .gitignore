@@ -1,0 +1,72 @@
+# =============================================================================
+# Optimus Rufus — Gitignore Master Rules
+# =============================================================================
+
+# Environments & Local Secrets
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+acquisition-tool/.env
+rufus-dashboard/.env.local
+rufus-calculator/.env
+
+# Python Compiled & Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+backend-venv/
+venv/
+.venv/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# SQLite Caches, Local Databases, and WAL Journals
+*.db
+*.db-shm
+*.db-wal
+backend/core/embedding_cache.db
+backend/core/embedding_cache.db-*
+
+# Application and Server Logs
+*.log
+backend/server.log
+rufus-dashboard/dashboard.log
+
+# Node.js / Frontend Builds & Modules
+node_modules/
+.next/
+out/
+rufus-calculator/dist/
+rufus-calculator/node_modules/
+tsconfig.tsbuildinfo
+.eslintcache
+
+# AI Agent & Session Cache Dirs (exclude skills/ and workflows/)
+.antigravity/
+.claude/
+.archive/
+acquisition-tool/.archive/
+acquisition-tool/data/processed/
+acquisition-tool/presentations/*.html
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace

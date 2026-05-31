@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-orbitron: 'Orbitron', system-ui, sans-serif;
+    --background: 210 40% 98%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 222 47% 11%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 174 72% 35%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 174 72% 35%;
+    --radius: 0.5rem;
+    --chart-1: 174 72% 35%;
+    --chart-2: 215 16% 47%;
+    --chart-3: 210 40% 80%;
+    --chart-4: 222 47% 11%;
+    --chart-5: 0 84% 60%;
+    --sidebar: 0 0% 100%;
+    --sidebar-foreground: 222 47% 11%;
+    --sidebar-primary: 222 47% 11%;
+    --sidebar-primary-foreground: 210 40% 98%;
+    --sidebar-accent: 210 40% 96%;
+    --sidebar-accent-foreground: 222 47% 11%;
+    --sidebar-border: 214 32% 91%;
+    --sidebar-ring: 174 72% 35%;
+  }
+
+  .dark {
+    --background: 216 65% 11%;
+    --foreground: 215 15% 87%;
+    --card: 215 66% 14%;
+    --card-foreground: 215 15% 87%;
+    --popover: 215 66% 14%;
+    --popover-foreground: 215 15% 87%;
+    --primary: 215 15% 87%;
+    --primary-foreground: 216 65% 11%;
+    --secondary: 215 66% 17%;
+    --secondary-foreground: 215 15% 87%;
+    --muted: 215 66% 17%;
+    --muted-foreground: 215 12% 65%;
+    --accent: 180 100% 50%;
+    --accent-foreground: 216 65% 11%;
+    --destructive: 354 80% 56%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 215 66% 18%;
+    --input: 215 66% 18%;
+    --ring: 180 100% 50%;
+    --chart-1: 180 100% 50%;
+    --chart-2: 354 80% 56%;
+    --chart-3: 215 66% 25%;
+    --chart-4: 215 15% 87%;
+    --chart-5: 354 80% 56%;
+    --sidebar: 216 65% 9%;
+    --sidebar-foreground: 215 15% 87%;
+    --sidebar-primary: 180 100% 50%;
+    --sidebar-primary-foreground: 216 65% 11%;
+    --sidebar-accent: 215 66% 14%;
+    --sidebar-accent-foreground: 215 15% 87%;
+    --sidebar-border: 215 66% 15%;
+    --sidebar-ring: 180 100% 50%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  html {
+    @apply font-sans;
+  }
+}
+
+/* Custom visual utilities for Optimus Prime Visual Overhaul */
+.font-display {
+  font-family: var(--font-orbitron), system-ui, sans-serif;
+}
+
+.void-grid {
+  background-image: linear-gradient(rgba(0, 245, 255, 0.02) 1.5px, transparent 1.5px),
+                    linear-gradient(90deg, rgba(0, 245, 255, 0.02) 1.5px, transparent 1.5px);
+  background-size: 50px 50px;
+}
+
+.void-grid-3d {
+  background-image: linear-gradient(rgba(0, 245, 255, 0.02) 1.5px, transparent 1.5px),
+                    linear-gradient(90deg, rgba(0, 245, 255, 0.02) 1.5px, transparent 1.5px);
+  background-size: 40px 40px;
+  transform: perspective(600px) rotateX(45deg);
+  transform-origin: top;
+}
+
+.text-glow-cyan {
+  text-shadow: 0 0 10px rgba(0, 245, 255, 0.5), 0 0 20px rgba(0, 245, 255, 0.2);
+}
+
+.text-glow-crimson {
+  text-shadow: 0 0 10px rgba(230, 57, 70, 0.5), 0 0 20px rgba(230, 57, 70, 0.2);
+}
+
+.box-glow-cyan {
+  box-shadow: 0 0 20px rgba(0, 245, 255, 0.15);
+}
+
+.box-glow-crimson {
+  box-shadow: 0 0 25px rgba(230, 57, 70, 0.2);
+}
+
+.backdrop-blur-obsidian {
+  background-color: rgba(10, 25, 47, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+

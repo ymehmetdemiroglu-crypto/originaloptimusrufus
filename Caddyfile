@@ -1,0 +1,7 @@
+{$DOMAIN} {
+    # Route API queries directly to FastAPI backend
+    reverse_proxy /api/* backend:8000
+
+    # Route all other requests to Next.js Frontend
+    reverse_proxy * frontend:3000
+}

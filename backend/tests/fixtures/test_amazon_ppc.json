@@ -1,0 +1,57 @@
+[
+  {
+    "dataType": "post",
+    "username": "fba_seller_pete",
+    "authorFlair": null,
+    "title": "ACOS is killing me - 87% and I'm losing money on every sale",
+    "body": "I've been running Amazon PPC for 6 months now and my ACOS is at 87%. I'm spending $3000/month on ads and barely breaking even. I've tried adjusting bids manually but nothing seems to work. My search term report is a mess - tons of irrelevant clicks burning through my budget. Anyone know how to fix this? I'm about to pause all my campaigns.",
+    "upVotes": 45,
+    "numberOfComments": 23,
+    "communityName": "r/AmazonSeller",
+    "url": "https://www.reddit.com/r/AmazonSeller/comments/test01/acos_is_killing_me_87_and_im_losing_money/"
+  },
+  {
+    "dataType": "post",
+    "username": "amz_pete_fba",
+    "authorFlair": null,
+    "title": "PPC not profitable - need help with campaign optimization",
+    "body": "Running auto and manual campaigns for 3 months. ACOS on auto is 120%, manual is 65%. I've added negative keywords but CPC is still too high. Burn rate is $150/day. ROAS is terrible. Do I need to restructure my entire campaign? Really struggling here.",
+    "upVotes": 31,
+    "numberOfComments": 18,
+    "communityName": "r/amazonfba",
+    "url": "https://www.reddit.com/r/amazonfba/comments/test02/ppc_not_profitable_need_help_with_campaign/"
+  },
+  {
+    "dataType": "post",
+    "username": "seller_jenny_2023",
+    "authorFlair": null,
+    "title": "How do I lower ACOS from 45% to under 30%?",
+    "body": "My product is profitable with organic sales but sponsored ads are eating into margin. ACOS is 45% and I need to get it under 30% to justify the spend. I know I need to optimize but not sure where to start - search term report, bid adjustments, dayparting? Any advice appreciated.",
+    "upVotes": 22,
+    "numberOfComments": 14,
+    "communityName": "r/FulfillmentByAmazon",
+    "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/test03/how_do_i_lower_acos_from_45_to_under_30/"
+  },
+  {
+    "dataType": "comment",
+    "username": "struggling_seller99",
+    "authorFlair": null,
+    "title": null,
+    "body": "I'm in the same boat. My ACOS is 78% and I'm losing money on ads. I've tried reducing bids but then impressions tank. It feels like a lose-lose. Wasted ad spend is out of control.",
+    "upVotes": 12,
+    "numberOfComments": 0,
+    "communityName": "r/AmazonSeller",
+    "url": "https://www.reddit.com/r/AmazonSeller/comments/test01/acos_is_killing_me_87_and_im_losing_money/comments/test04"
+  },
+  {
+    "dataType": "post",
+    "username": "new_fba_seller_mike",
+    "authorFlair": null,
+    "title": "Just launched my first Amazon product - any PPC tips?",
+    "body": "I just launched my first Amazon product last week. Planning to run PPC to get initial reviews and rank. Any general tips for someone just starting out with Amazon ads? What ACOS should I target?",
+    "upVotes": 8,
+    "numberOfComments": 5,
+    "communityName": "r/amazonfba",
+    "url": "https://www.reddit.com/r/amazonfba/comments/test05/just_launched_my_first_amazon_product_any_ppc_tips/"
+  }
+]
