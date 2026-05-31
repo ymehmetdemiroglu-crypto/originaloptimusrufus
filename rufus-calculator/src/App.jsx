@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import Calculator from './Calculator.jsx';
 import './App.css';
 
+const Landing = React.lazy(() => import('./Landing'));
 const Results = React.lazy(() => import('./Results'));
 const Profile = React.lazy(() => import('./Profile'));
 
@@ -30,7 +31,8 @@ export default function App() {
     <Router>
       <Suspense fallback={<PageSkeleton />}>
         <Routes>
-          <Route path="/" element={<Calculator />} />
+          <Route path="/" element={<Landing />} />
+          <Route path="/calculator" element={<Calculator />} />
           <Route path="/results" element={<Results />} />
           <Route path="/profile/:id" element={<Profile />} />
           <Route path="*" element={<Navigate to="/" replace />} />
